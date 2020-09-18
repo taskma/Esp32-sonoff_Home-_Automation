@@ -12,4 +12,8 @@ For connection Sonoff Basic to UART
 
 ![alt text](https://github.com/taskma/Esp32-sonoff_Home-_Automation/blob/master/sonoffToUART.jpg)
 
+For Esp8266 + Relay module (need to change gpio12Relay in the code)
+![alt text](https://github.com/taskma/Esp32-sonoff_Home-_Automation/blob/master/esp8266_relay.png)
+
+
 
